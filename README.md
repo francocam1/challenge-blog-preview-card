@@ -11,5 +11,3 @@ Mi solución al desafío de Frontend Mentor.
 * CSS3 (Flexbox 
 * Metodologia BEM
   
-## 👤 Autor
-* GitHub: [@francocam1](https://github.com/francocam1)
